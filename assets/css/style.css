@@ -888,6 +888,12 @@
             left: 33%;
             margin-bottom: -2.55%;        
         }
+
+        @media screen and (max-width:990px){
+            .career-img {
+                opacity: 0.2;
+            }
+        }
         
         .footer {
             background-color: #140d00;
